@@ -6,9 +6,9 @@
 
 ## Introduction
 
-The noughts and crosses (tic tac toe) UI has been  built as a fully responsive application in React Native. The design adapts seamlessly to various device resolutions by leveraging flexbox and proportional sizing, ensuring a consistent and polished appearance across screens. The layout replicates the classic game board, with evenly spaced boxes that maintain their proportions while including responsive text elements for noughts and crosses.
+Run Online on Expo Snack - https://snack.expo.dev/@maryam222/tictactoe
 
-Run Online on Expo Snack https://snack.expo.dev/@maryam222/tictactoe
+The noughts and crosses (tic tac toe) UI has been  built as a fully responsive application in React Native. The design adapts seamlessly to various device resolutions by leveraging flexbox and proportional sizing, ensuring a consistent and polished appearance across screens. The layout replicates the classic game board, with evenly spaced boxes that maintain their proportions while including responsive text elements for noughts and crosses.
 
 ## Getting Started
 
